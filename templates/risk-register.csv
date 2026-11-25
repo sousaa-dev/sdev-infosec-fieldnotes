@@ -1,0 +1,2 @@
+id,asset,scenario,impact,likelihood,control,owner,review,status
+R-001,Example records,Unavailable backup,4,2,Restore verification,Operations,Quarterly,Open
