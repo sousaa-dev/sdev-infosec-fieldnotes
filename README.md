@@ -12,7 +12,7 @@ Uma base de conhecimento de segurança da informação organizada para estudo pr
 
 ## Material didático
 
-**[Baixar apostila completa (PDF, 14 páginas)](pdf/seguranca-da-informacao.pdf)**
+**[Baixar apostila completa (PDF, 20 páginas)](pdf/seguranca-da-informacao.pdf)**
 
 | Módulo | Tema | Material |
 |---|---|---|
@@ -59,3 +59,28 @@ Anteriormente mantido em outra conta pessoal, o projeto foi revisado e migrado p
 Pablo Sousa Ribeiro · [GitHub](https://github.com/sousaa-dev)
 
 Material educacional; não constitui certificação ou avaliação de sistemas reais.
+
+## Edição acadêmica revisada (2026)
+
+- [Manual completo em PDF](pdf/seguranca-da-informacao.pdf) — 20 páginas, 17 capítulos, capa, sumário e referências.
+- [Versão editável em Markdown](manual/edicao-revisada.md)
+
+1. Fundamentos e objetivos
+2. Governança, riscos e conformidade
+3. NIST CSF 2.0 e melhoria contínua
+4. ISO 27001 e gestão de segurança
+5. Privacidade e minimização de dados
+6. Redes, segmentação e confiança
+7. Criptografia e integridade
+8. Identidade, MFA e Zero Trust
+9. Hardening e gestão de endpoints
+10. Microsoft 365 e proteção de identidades
+11. Monitoramento, SOC, SIEM e EDR
+12. Gestão de vulnerabilidades e atualizações
+13. Resposta a incidentes e preservação de evidências
+14. Continuidade, recuperação e cópias
+15. Desenvolvimento seguro e DevSecOps
+16. IA, automação e governança
+17. Projeto integrador e indicadores
+
+Os cenários e atividades são propostas educacionais; não constituem evidência de implantação real.
